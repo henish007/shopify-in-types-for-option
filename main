@@ -1,0 +1,45 @@
+"type": "article",
+
+"type": "blog",
+
+"type": "checkbox",
+
+"type": "collection",
+
+"type": "color",
+
+"type": "font_picker",
+
+"type": "hidden",
+
+"type": "html",
+
+"type": "image",
+
+"type": "image_picker",
+
+"type": "layout",
+
+"type": "link_list",
+
+"type": "number",
+
+"type": "page",
+
+"type": "product",
+
+"type": "radio",
+
+"type": "range",
+
+"type": "richtext",
+
+"type": "select",
+
+"type": "text",
+
+"type": "textarea",
+
+"type": "url",
+
+"type": "video_url"
