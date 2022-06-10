@@ -37,6 +37,9 @@
 "type": "select",
 
 "type": "text",
+"label": "Your Lable Text Enter",
+"id": "Enter Id",
+"default": "Enter Default Text Enter"
 
 "type": "textarea",
 
