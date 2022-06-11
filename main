@@ -3,10 +3,18 @@
 "type": "blog",
 
 "type": "checkbox",
+"id": "Enter Your id",
+"label": "Enter Your Label",
+"default": true/false
 
 "type": "collection",
+"id": "Enter id",
+"label": "Enter Your Label"
 
 "type": "color",
+"id": "Enter id",
+"label": "Enter Your Label",
+"default": "Enter Your Ex.[#000]"
 
 "type": "font_picker",
 
@@ -31,8 +39,17 @@
 "type": "radio",
 
 "type": "range",
+"id": "Enter id",
+"label": "Enter Your Label",
+"min" : 0, // Enter Your minimum value
+"max" : 100, // Enter Your maxmum value
+"step" : 1, // Enter Your step value
+"default": 50 // Enter Your default value
 
 "type": "richtext",
+"label": "Your Lable Text Enter",
+"id": "Enter Id",
+"default": "Enter Default Text Enter"
 
 "type": "select",
 
